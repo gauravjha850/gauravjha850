@@ -1,23 +1,22 @@
 <h1 align="center">Hello World 👋, I'm Gaurav Jha</h1>
-<h3 align="center">A Programmer, Analyst and Learner </h3>
+<h3 align="center">A Programmer, data science enthusiast and Learner </h3>
 <!--<img align="right" alt="Coding" width="400" src=""> -->
 
 ![photo_2024-06-12_21-26-44](https://github.com/codeefy/codeefy/assets/164794013/eded0fd1-a199-4a93-80d9-18036c6a68ef)
 
 
 **About Me**        
-- 🌱 I am a Data Analyst and a tech enthusiast
-- 🌱 BS In Data Science and Applications From **Indian Instritute Of Technology Madras   
-- 👷 BSC (3rd year) at **Delhi skill and Entrepreneurship university**
+- 🌱 I am a student of masters in data science from indian institute of information technology lucknow and a tech enthusiast
+- 🌱 BSc in mathematics   
 - 🚀 Passionate, hard-working, quick learner
-- 🌱 I’m learning **Data Science,Full stack development and Competitive Programming**
+- 🌱 I’m learning **data science and dsa**
 - 😀 Always open to learn and grow
 - 🚀your time is limited so dont waste it to live someone's else life by Steve Jobs 
-- 💬 Ask me about ** ML and hackathons**
-- 🏆**First Runner Up** won **25000 rupess In National Level** E waste hackathon Organized By **Central Pollution control Board  Delhi and ministry of environment forest and climate change** 2023
-- 🏆**Second Runner Up** won **1lakh National Level** E waste Hackathon Organized By **IIM Nagpur** 2024 
+- 💬 Ask me about ** ML and behind mathematics of machine learning and data deep learning**
+- 🏆got selescted for regional maths olympiad with air 2502
+- 🏆cracked iit jam exam 2 times 2023,2025
 
-- 📫 How to reach me **cashleyrohit01@gmail.com**
+- 📫 How to reach me **gauravjha850@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeefy&label=Profile%20views&color=0e75b6&style=flat" alt="codeefy" /> </p>
 
@@ -27,7 +26,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/immmrohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rohit-raj18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit18" height="30" width="40" /></a>
+<a href=www.linkedin.com/in/gaurav-jha-8a0a8621b
+
+ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
