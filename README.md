@@ -18,17 +18,14 @@
 
 - 📫 How to reach me **gauravjha850@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeefy&label=Profile%20views&color=0e75b6&style=flat" alt="codeefy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravjha850&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjha850" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeefy" alt="codeefy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravjha850" alt="gauravjha850" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/immmrohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit" height="30" width="40" /></a>
-<a href=www.linkedin.com/in/gaurav-jha-8a0a8621b
-
- target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit18" height="30" width="40" /></a>
+<a href=www.linkedin.com/in/gaurav-jha-8a0a8621b target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gauravjha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
